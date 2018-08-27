@@ -4,4 +4,4 @@
 
 ## Adding Examples
 
-Feel free to add some examples. Just create a new file and add your training data, etc. Please leave comments to explain what your network does
+Feel free to add some examples. Just create a new file, number and label it and add your code/training data, etc. Please leave comments to explain what your network does
