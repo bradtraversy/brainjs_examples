@@ -50,5 +50,29 @@
   {
     "text": "i tested the code",
     "category": "software"
+  },
+  {
+    "text": "i love computers",
+    "category": "hardware"
+  },
+  {
+    "text": "programming",
+    "category": "software"
+  },
+  {
+    "text": "i broke my pc",
+    "category": "hardware"
+  },
+  {
+    "text": "computer",
+    "category": "hardware"
+  },
+  {
+      "text": "buy me a laptop",
+      "category": "hardware"
+  },
+  {
+      "text": "i love to play games",
+      "category": "software"
   }
 ]
